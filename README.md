@@ -23,6 +23,8 @@ Tools: Jupyter Notebooks, Google Colab, Git, GitHub
 Databases: MySQL
 Charts: Mermaid, Lucid Chart, Canvas, Figma
 
+Github Stats: [!NOTE]Coming Soon
+
 ##How to Reach Me:
 **Email**: bperillo2411@gmail.com
 **Linkedin**: [ Link here (https://www.linkedin.com/in/bailey-perillo-a61467177/) ]
