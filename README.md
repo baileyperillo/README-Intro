@@ -1,4 +1,4 @@
-# README-Intro
+## README-Intro
 
 Hello! 👋 
 
@@ -10,13 +10,12 @@ I have been a participant in Codepath. My favorite projects are here:
 AppliedAI: https://github.com/baileyperillo/applied-ai-system-project - Furthering developing a pet task manager by integrating an AI system to recommend task scheduler.
 HobbyHub: https://github.com/baileyperillo/HobbyHub - Developed a dashboard where users, mainly women, can upvote and hear about recommended anime by women.
 
-
 I have also recently participated in hackathons. Here are a few of the projects that I have done:
 SafeSummerNYC: https://github.com/baileyperillo/MHC-Hackathon - Developed the backend of an application that would help locate the nearest cooling center or areas of resources, such as charging and water.
 Clarify: https://github.com/baileyperillo/clarify - Developed the backend of an application that would take study notes and generate flash cards to help students study their desired topic.
 Base44: [Link Here] - Developed using Base44, to find available locations for contractors and architects that fits their project goals and be given additional information about the location, such as laws, related reports, eco-friendly resources.
 
-Tech Stack:
+##Tech Stack:
 Languages: Python, C++, HTML, CSS, Javascript
 Data Science: Pandas, NumPy, scikit-learn, seaborn
 Web Dev: HTML, CSS, JavaScript (basic), React.js
@@ -24,7 +23,7 @@ Tools: Jupyter Notebooks, Google Colab, Git, GitHub
 Databases: MySQL
 Charts: Mermaid, Lucid Chart, Canvas, Figma
 
-How to Reach Me:
-Email: bperillo2411@gmail.com
-Linkedin: https://www.linkedin.com/in/bailey-perillo-a61467177/
+##How to Reach Me:
+**Email**: bperillo2411@gmail.com
+**Linkedin**: https://www.linkedin.com/in/bailey-perillo-a61467177/
 
